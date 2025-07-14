@@ -1,0 +1,14 @@
+https://train.rse.ox.ac.uk/material 					- homepage
+https://train.rse.ox.ac.uk/material/HPCu/libraries/pybamm		- pybamm tutorial
+https://train.rse.ox.ac.uk/material/HPCu/libraries/pybamm-developer	- developing models in pybamm
+https://docs.pybamm.org/en/stable/source/user_guide/index.html		- pybamm official documentation
+https://docs.pybamm.org/en/stable/source/api/index.html			- pybamm API documentation
+https://docs.pybamm.org/en/latest/source/examples/notebooks/models/SEI-on-cracks.html	- Example model of SEI growth on particle cracks
+
+
+https://train.rse.ox.ac.uk/material					- material science related computational guides
+https://train.rse.ox.ac.uk/material/HPCu/scientific_computing		- scientific computing
+https://train.rse.ox.ac.uk/material/HPCu/scientific_computing/essential_maths	- essential maths for material science
+
+
+https://train.rse.ox.ac.uk/material/HPCu/software_project_management	- software project management
