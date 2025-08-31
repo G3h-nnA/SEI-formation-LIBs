@@ -3,10 +3,8 @@
 Code for simulating SEI formation in lithium ion batteries using PyBaMM. 
 This is a part of the research project report/thesis for MSc Advanced Materials Science and Engineering at Imperial College London.
 
-## Contents:
-- Training: code used for playing around and familiarising with the package
-- Models: various LIB models built for the simulations
-- Simulation: scripts for running the simulations
-- Functions: self-defined functions
-- Parameters: self-defined parameters for various experiments
-- Results: exported results and graphics
+## References:
+1. PyBaMM
+2. Ai et al. https://doi.org/10.1016/j.jpowsour.2022.231142
+3. O'Kane et al. DOI: 10.1039/d2cp00417h
+4. O'Regan et al. https://doi.org/10.1016/j.electacta.2022.140700
